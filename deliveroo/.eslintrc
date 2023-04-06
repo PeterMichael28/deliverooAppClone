@@ -1,0 +1,3 @@
+{
+  "extends":["@babel/preset-react'" , "@sanity/eslint-config-studio"]
+}
